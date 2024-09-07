@@ -1,4 +1,4 @@
-# DeSafe for Safe In Cloud
+# Bruteforce (DeSafe) for Safe In Cloud
 
 Desafe provides a python utility to decrypt a [SafeInCloud](www.safe-in-cloud.com) database file. It mainly provides a command line utility to be able to read labels and cards, and export the [SafeInCloud](www.safe-in-cloud.com) database in json or xml format.
 
