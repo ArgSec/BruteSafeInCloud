@@ -3,3 +3,4 @@ pycryptodome
 xmltodict
 passlib
 docopt
+python3-pip
